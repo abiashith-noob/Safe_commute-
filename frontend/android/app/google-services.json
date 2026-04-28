@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "103528995573",
+    "project_id": "safe-commute-ai-123",
+    "storage_bucket": "safe-commute-ai-123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103528995573:android:a9e5b919e276d26f9d03bc",
+        "android_client_info": {
+          "package_name": "com.example.safe_commute_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUZ8CP8fwPQ5gBkBZ7toWIhMo_v_le_IA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103528995573:android:7296589e0d6e70879d03bc",
+        "android_client_info": {
+          "package_name": "com.safecommute.ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUZ8CP8fwPQ5gBkBZ7toWIhMo_v_le_IA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
