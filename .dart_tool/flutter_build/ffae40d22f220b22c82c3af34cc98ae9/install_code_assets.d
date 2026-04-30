@@ -1,0 +1,1 @@
+ /Users/hashandilharathilakarathna/Downloads/safe_commute_ai\ 2/safe_commute_ai/.dart_tool/flutter_build/ffae40d22f220b22c82c3af34cc98ae9/native_assets.json:  /Users/hashandilharathilakarathna/Downloads/safe_commute_ai\ 2/safe_commute_ai/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/objective_c.dylib

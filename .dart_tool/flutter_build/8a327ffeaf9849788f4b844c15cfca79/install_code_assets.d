@@ -1,0 +1,1 @@
+ /Users/hashandilharathilakarathna/Downloads/safe_commute_ai/safe_commute_ai/.dart_tool/flutter_build/8a327ffeaf9849788f4b844c15cfca79/native_assets.json: 
